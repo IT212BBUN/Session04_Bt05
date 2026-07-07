@@ -1,7 +1,7 @@
 # BÀI 5: Sáng tạo (Thiết kế Quy trình & Prompt Kiểm tra Giao dịch đáng ngờ)
 
-**Họ và tên:** Lu Nhựt Đình
-**Mã sinh viên:** N24DTCN022
+**Họ và tên:** Trần Võ Hữu Tài
+**Mã sinh viên:** N24DTCN074
 
 ## 1. Ý đồ thiết kế quy trình 2 bước
 Quy trình thiết kế này nhắm tới việc tách biệt 2 giai đoạn vòng đời phần mềm: Lập trình (Code Generation) và Tối ưu (Optimization).
